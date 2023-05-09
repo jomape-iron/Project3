@@ -1,0 +1,55 @@
+id,categorie,distance,latitude,longitude,name
+13035,Coffee Shop,247,37.789098,-122.408438,Starbucks
+13035,Coffee Shop,166,37.789293,-122.406729,Starbucks
+13035,Coffee Shop,933,37.793812,-122.396743,Starbucks
+13035,Coffee Shop,749,37.784117,-122.407356,Starbucks
+13035,Coffee Shop,1177,37.788268,-122.393621,Starbucks
+13035,Coffee Shop,89,37.790448,-122.405722,Starbucks
+13035,Coffee Shop,327,37.786805,-122.407228,Starbucks
+13035,Coffee Shop,527,37.786145,-122.405612,Starbucks
+13035,Coffee Shop,543,37.794601,-122.402669,Starbucks
+13035,Coffee Shop,229,37.790648,-122.403858,Starbucks
+19040,International Airport,19421,37.616581,-122.386689,San Francisco International Airport (SFO)
+19040,International Airport,19107,37.712395,-122.213323,Oakland International Airport (OAK)
+19046,Metro Station,353,37.787906,-122.406934,Union Square/Market Street MUNI Metro Station
+19046,Metro Station,446,37.788862,-122.402116,Montgomery St BART Station
+19046,Metro Station,724,37.784458,-122.407591,Powell MUNI Metro Station
+19046,Metro Station,1041,37.7822,-122.401651,Yerba Buena/Moscone MUNI Metro Station
+10032,Night Club,642,37.785321,-122.404416,The View
+10032,Night Club,1084,37.781368,-122.40956,Club Six
+10032,Night Club,850,37.798551,-122.406989,The Saloon
+10032,Night Club,1232,37.788913,-122.420686,El Lopo
+10032,Night Club,886,37.787129,-122.397425,Southside Spirit House
+10032,Night Club,1479,37.803296,-122.400887,Pier 23 Cafe
+10032,Night Club,1106,37.780935,-122.408387,Monarch
+10032,Night Club,815,37.797885,-122.405014,Monroe
+10032,Night Club,937,37.79124,-122.417168,The Wreck Room
+10032,Night Club,1406,37.778128,-122.405784,1015 Folsom
+12058,Elementary School,42,37.791185,-122.406339,Notre Dame Des Victoires School
+12058,Elementary School,280,37.793251,-122.405386,Nam Kue School
+12058,Elementary School,412,37.794355,-122.408892,Gordon J Lau Elementary School
+12058,Elementary School,480,37.794818,-122.404116,Edwin and Anita Lee Newcomer School
+12058,Elementary School,484,37.794856,-122.404046,Chinese Education Center Elementary School
+12059,High School,517,37.787731,-122.410939,San Francisco Flex Academy
+12057,Primary and Secondary School,569,37.789334,-122.399778,American Society On Aging
+12058,Elementary School,593,37.795842,-122.404821,St Mary's School
+12058,Elementary School,598,37.789616,-122.400368,Decker Communications
+12058,Elementary School,696,37.792179,-122.413854,Cathedral School For Boys
+13099,Chinese Restaurant,570,37.795836,-122.405323,Enjoy Vegetarian Restaurant
+13072,Asian Restaurant,1381,37.781213,-122.416719,Golden Era Vegan Restaurant
+13065,Restaurant,1305,37.789748,-122.391772,Sweetgreen
+13099,Chinese Restaurant,471,37.795217,-122.407437,The Lucky Creation Vegetarian Restaurant
+13377,Vegan and Vegetarian Restaurant,1375,37.783353,-122.419067,Thai Idea Vegetarian Restaurant
+13034,Café,936,37.790498,-122.417052,Nourish Cafe
+13065,Restaurant,807,37.787275,-122.398509,Sweetgreen
+13068,American Restaurant,587,37.794537,-122.401805,Mixt Greens
+13297,Latin American Restaurant,1054,37.799682,-122.410569,Pena Pachamama
+13034,Café,381,37.791658,-122.402281,The Plant Cafe Organic
+11134,Pet Grooming Service,1482,37.796647,-122.421645,Bow Wow Meow
+11134,Pet Grooming Service,1338,37.793688,-122.42104,Wags Pet Wash & Boutique
+11134,Pet Grooming Service,1326,37.779739,-122.401363,SF Puppy Love
+11134,Pet Grooming Service,1387,37.77886,-122.402602,Doggie Day Spaw
+11134,Pet Grooming Service,780,37.787063,-122.399142,Tefani & So. Dogcare
+11134,Pet Grooming Service,1326,37.794002,-122.421202,Wags
+11134,Pet Grooming Service,1335,37.793525,-122.421461,Who Let the Dogs Out
+18008,Basketball Court,1315,37.778838,-122.406328,Soma Rec Center
